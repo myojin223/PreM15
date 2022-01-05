@@ -610,8 +610,8 @@
                                     <FileExists src="../../overlays/color_indicators/$join{color_indicator}.png"/>
                                 </AttributeModifier>
                             </Text>
-                            <Style font="MatrixBold" color="#000000" size="135" kerning="2"/>
-                            <Style font="MatrixBold" color="#FFFFFF" size="135" kerning="2">
+                            <Style font="Beleren2016-Bold" color="#000000" size="135" kerning="2"/>
+                            <Style font="Beleren2016-Bold" color="#FFFFFF" size="135" kerning="2">
                                 <Conditions>
                                     <IsPresent key="layout"/>
                                     <Or>
